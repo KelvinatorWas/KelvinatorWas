@@ -19,4 +19,4 @@ I'm a frontend developer & game developer with expertise in making dynamic web a
 I am continuously eager to learn and explore new technologies. Feel free to check out my repositories to see the projects I've been working on, and will work on.
 
 ### **Lets Connect**
-  [![Linkedin](https://play.google.com/store/apps/details?id=com.linkedin.android&hl=en_US) LinkedIn](www.linkedin.com/in/kalvisliepkalns)
+  [![Linkedin](https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-Squircle-Dark-300x300.png) LinkedIn](www.linkedin.com/in/kalvisliepkalns)

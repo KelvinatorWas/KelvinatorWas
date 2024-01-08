@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Kalvis 👋
 
-<!--
-**KelvinatorWas/KelvinatorWas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Frontend Developer ☀️ & Game Developer 🌑**
 
-Here are some ideas to get you started:
+I'm a frontend developer & game developer with expertise in making dynamic web applications and intriguing games with a charming pixel art style.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Frontend
+  - 🖊️ **Languages:** Typescript, Javascript, HTML, CSS
+  - 📚 **Frameworks & Libaries:** React, React-Redux, React-Query, NextJs, NextAuth, Zod, jQuery, Jest
+  - 🕵️ **Backend DataBase's:** MySQL, JSON
+
+# Game Development
+  - 🖊️ **Languages:** Python, Nim, C, C# , GML - Game Maker Langauge
+  - 📚 **Frameworks & Libaries:** SDL2, Raylib, OpenGL, ModernGL 
+  - ⚙️ **Game Engines:** Godot, Game Maker 1.4 & 2.0
+

@@ -14,3 +14,9 @@ I'm a frontend developer & game developer with expertise in making dynamic web a
   - 📚 **Frameworks & Libaries:** SDL2, Raylib, OpenGL, ModernGL 
   - ⚙️ **Game Engines:** Godot, Game Maker 1.4 & 2.0
 
+##
+
+I am continuously eager to learn and explore new technologies. Feel free to check out my repositories to see the projects I've been working on, and will work on.
+
+  **Lets Connect**
+  [LinkedIn](www.linkedin.com/in/kalvisliepkalns)  

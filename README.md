@@ -18,5 +18,5 @@ I'm a frontend developer & game developer with expertise in making dynamic web a
 
 I am continuously eager to learn and explore new technologies. Feel free to check out my repositories to see the projects I've been working on, and will work on.
 
-  **Lets Connect**
+### **Lets Connect**
   [LinkedIn](www.linkedin.com/in/kalvisliepkalns)  

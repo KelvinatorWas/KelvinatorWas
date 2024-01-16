@@ -11,8 +11,8 @@ I'm a frontend developer & game developer with expertise in making dynamic web a
 
 ## Game Development
   - 🖊️ **Languages:** Python, Nim, C, C# , GML - Game Maker Langauge
-  - 📚 **Frameworks & Libaries:** SDL2, Raylib, OpenGL, ModernGL 
-  - ⚙️ **Game Engines:** Godot, Game Maker 1.4 & 2.0
+  - 📚 **Frameworks & Libaries:** Pygame, MonoGame, SDL2, Raylib, OpenGL, ModernGL 
+  - ⚙️ **Game Engines:** Godot, Game Maker 1.4 & 2.0, Blender Game Engine
 
 ##
 

@@ -6,7 +6,7 @@ I'm a frontend developer & game developer with expertise in making dynamic web a
 
 ## Frontend
   - 🖊️ **Languages:** Typescript, Javascript, HTML, CSS
-  - 📚 **Frameworks & Libaries:** React, React-Redux, React-Query, NextJs, NextAuth, Zod, jQuery, Jest
+  - 📚 **Frameworks & Libaries:** React, React-Redux, React-Query, NextJs, NextAuth, Zod, jQuery, Jest, Vue, Angular
   - 🕵️ **Backend DataBase's:** MySQL, JSON
 
 ## Game Development

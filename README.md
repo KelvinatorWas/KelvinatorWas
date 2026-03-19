@@ -5,8 +5,8 @@
 I'm a frontend developer & game developer with expertise in making dynamic web applications and intriguing games with a charming pixel art style.
 
 ## Frontend
-  - 🖊️ **Languages:** Typescript, Javascript, HTML, CSS
-  - 📚 **Frameworks & Libaries:** React, React-Redux, React-Query, NextJs, NextAuth, Zod, jQuery, Jest, Vue, Angular
+  - 🖊️ **Languages:** Typescript, Javascript, HTML, CSS, PHP
+  - 📚 **Frameworks & Libaries:** React, React-Redux, React-Query, NextJs, NextAuth, Zod, jQuery, Jest, Vue, Angular, Magento, Laravel
   - 🕵️ **Backend DataBase's:** MySQL, JSON
 
 ## Game Development
